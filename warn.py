@@ -1,5 +1,6 @@
 import argparse
 from pypushdeer import PushDeer
+import base64
 
 ## argparse
 parser = argparse.ArgumentParser()
