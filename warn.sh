@@ -1,5 +1,5 @@
 #!/usr/bin/zsh
-for i in {1..10}
+for i in {1..20}
 do
-	pushdeer=$(curl -s pushdeer.lev1s.cn)
+	pushdeer=$(curl -s http://pushdeer.lev1s.cn)
 done
