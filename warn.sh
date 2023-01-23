@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/zsh
 for i in {1..10}
 do
 	pushdeer=$(curl -s pushdeer.lev1s.cn)
